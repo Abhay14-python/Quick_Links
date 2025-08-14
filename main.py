@@ -31,7 +31,7 @@ def label_edit():
 # window -------------------------------- #
 window = ttk.Window(themename = "cyborg")
 window.geometry("650x300")
-window.title("Combo and Spin")
+window.title("Quick Links")
 
 # label ----------------------------------- #
 label = ttk.Label(
@@ -79,3 +79,4 @@ window.mainloop()
 
 
 print("Thanks for your support!")
+
