@@ -74,4 +74,8 @@ button = ttk.Button(
 )
 button.pack(pady = 10)
 # run ------------------------------------------------- #
+
 window.mainloop()
+
+
+print("Thanks for your support!")
